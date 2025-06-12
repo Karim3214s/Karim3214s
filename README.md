@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me shaik.karim5958@gmail.com
+- 📫 How to reach me shaik.karim3214@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
