@@ -39,7 +39,7 @@
 <td valign="top" width="55%">
 
 ```yaml
-Name        : Shaik Karimulla
+Name        : Karimulla Shaik
 Location    : India 🇮🇳
 Role        : AI & ML Engineer
 Degree      : B.Tech in AI & ML
