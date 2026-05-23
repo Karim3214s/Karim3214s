@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img width="420" src=""/>
+<img width="420" src="./assets/welcome.png"/>
 
 </div>
 
